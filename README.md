@@ -31,9 +31,9 @@
     
 3. **Run the playbook**
     ```bash
-    ansible-playbook work.yaml ``` 
+    ansible-playbook work.yaml``` 
     
             or 
 
     ```bash
-    ansible-playbook work.yaml --list myhost
+    ansible-playbook work.yaml --list myhost```
