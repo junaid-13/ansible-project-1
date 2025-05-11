@@ -15,12 +15,12 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/junaid-13/ansible-project-1.git
-   cd ansible-project-1```
+   cd ansible-project-1
    
 2. **Configure the host file**
   -  ```bash
       cd /etc/ansible
-      sudo vi hosts```
+      sudo vi hosts
 
    - ```bash
      [myhost] #you can change the myhost with your own
@@ -36,4 +36,4 @@
             or 
 
     
-    ansible-playbook work.yaml --list myhost```
+    ansible-playbook work.yaml --list myhost
