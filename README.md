@@ -19,8 +19,8 @@
    
 2. **Configure the host file**
   -  ```bash
-   cd /etc/ansible
-   sudo vi hosts```
+      cd /etc/ansible
+      sudo vi hosts```
 
    - ```bash
      [myhost] #you can change the myhost with your own
