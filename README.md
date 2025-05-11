@@ -31,6 +31,7 @@
     
 3. **Run the playbook**
     ```bash
+    cd /home/ubuntu/ansible-project-1 #Change the path according to where your repository has downloaded
     ansible-playbook work.yaml
     
             or 
